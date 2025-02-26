@@ -9,5 +9,5 @@ const tableauNonVide = [10, 20, 30, 40];
 const tableauVide: number[] = [];
   
 console.log(premierElement(tableauNonVide));  
-console.log(premierElement(tableauVide)); 
+console.log(premierElement(tableauVide));
   
