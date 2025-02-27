@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "target": "ES6",
+        "noEmitOnError": true,
+        "declaration": true,
+        "moduleResolution": "node",
+        "baseUrl": ".",
+        "paths": {
+          "mon-module": ["mon-module"]
+        },
+        "strict": true,
+        "esModuleInterop": true
+    },
+    "files": ["gestionCours.ts", "index.ts"]
+}
